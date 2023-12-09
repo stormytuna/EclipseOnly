@@ -1,0 +1,7 @@
+{
+  "name": "EclipseOnly",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/stormytuna/EclipseOnly",
+  "description": "Eclipse Only does what it says on the tin, it makes it so every planet is Eclipsed constantly",
+  "dependencies": []
+}
